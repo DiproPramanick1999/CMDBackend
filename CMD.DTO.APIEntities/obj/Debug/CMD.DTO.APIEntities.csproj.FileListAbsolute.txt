@@ -1,0 +1,12 @@
+C:\Users\Dipro Pramanick\Desktop\Desktop\CMDDatabase\CMD.DTO.APIEntities\bin\Debug\CMD.DTO.APIEntities.dll
+C:\Users\Dipro Pramanick\Desktop\Desktop\CMDDatabase\CMD.DTO.APIEntities\bin\Debug\CMD.DTO.APIEntities.pdb
+C:\Users\Dipro Pramanick\Desktop\Desktop\CMDDatabase\CMD.DTO.APIEntities\obj\Debug\CMD.DTO.APIEntities.csproj.CoreCompileInputs.cache
+C:\Users\Dipro Pramanick\Desktop\Desktop\CMDDatabase\CMD.DTO.APIEntities\obj\Debug\CMD.DTO.APIEntities.dll
+C:\Users\Dipro Pramanick\Desktop\Desktop\CMDDatabase\CMD.DTO.APIEntities\obj\Debug\CMD.DTO.APIEntities.pdb
+C:\Users\Dipro Pramanick\Desktop\Desktop\backpull\Clone BE\cmd-be\CMD.DTO.APIEntities\bin\Debug\CMD.DTO.APIEntities.dll
+C:\Users\Dipro Pramanick\Desktop\Desktop\backpull\Clone BE\cmd-be\CMD.DTO.APIEntities\bin\Debug\CMD.DTO.APIEntities.pdb
+C:\Users\Dipro Pramanick\Desktop\Desktop\backpull\Clone BE\cmd-be\CMD.DTO.APIEntities\obj\Debug\CMD.DTO.APIEntities.csproj.AssemblyReference.cache
+C:\Users\Dipro Pramanick\Desktop\Desktop\backpull\Clone BE\cmd-be\CMD.DTO.APIEntities\obj\Debug\CMD.DTO.APIEntities.csproj.CoreCompileInputs.cache
+C:\Users\Dipro Pramanick\Desktop\Desktop\backpull\Clone BE\cmd-be\CMD.DTO.APIEntities\obj\Debug\CMD.DTO.APIEntities.dll
+C:\Users\Dipro Pramanick\Desktop\Desktop\backpull\Clone BE\cmd-be\CMD.DTO.APIEntities\obj\Debug\CMD.DTO.APIEntities.pdb
+C:\Users\Dipro Pramanick\Desktop\Desktop\CMDDatabase\CMD.DTO.APIEntities\obj\Debug\CMD.DTO.APIEntities.csproj.AssemblyReference.cache

@@ -1,0 +1,56 @@
+C:\Bhavya\Eurofins\Final Project\backend\cmd-be\CMD.Business\bin\Debug\CMD.Business.dll
+C:\Bhavya\Eurofins\Final Project\backend\cmd-be\CMD.Business\bin\Debug\CMD.Business.pdb
+C:\Bhavya\Eurofins\Final Project\backend\cmd-be\CMD.Business\bin\Debug\CMD.DataAccess.dll
+C:\Bhavya\Eurofins\Final Project\backend\cmd-be\CMD.Business\bin\Debug\CMD.Entities.dll
+C:\Bhavya\Eurofins\Final Project\backend\cmd-be\CMD.Business\bin\Debug\CMD.Exceptions.dll
+C:\Bhavya\Eurofins\Final Project\backend\cmd-be\CMD.Business\bin\Debug\EntityFramework.dll
+C:\Bhavya\Eurofins\Final Project\backend\cmd-be\CMD.Business\bin\Debug\CMD.DataAccess.pdb
+C:\Bhavya\Eurofins\Final Project\backend\cmd-be\CMD.Business\bin\Debug\CMD.DataAccess.dll.config
+C:\Bhavya\Eurofins\Final Project\backend\cmd-be\CMD.Business\bin\Debug\CMD.Entities.pdb
+C:\Bhavya\Eurofins\Final Project\backend\cmd-be\CMD.Business\bin\Debug\CMD.Exceptions.pdb
+C:\Bhavya\Eurofins\Final Project\backend\cmd-be\CMD.Business\bin\Debug\EntityFramework.xml
+C:\Bhavya\Eurofins\Final Project\backend\cmd-be\CMD.Business\obj\Debug\CMD.Business.csproj.AssemblyReference.cache
+C:\Bhavya\Eurofins\Final Project\backend\cmd-be\CMD.Business\obj\Debug\CMD.Business.csproj.CoreCompileInputs.cache
+C:\Bhavya\Eurofins\Final Project\backend\cmd-be\CMD.Business\obj\Debug\CMD.Business.csproj.CopyComplete
+C:\Bhavya\Eurofins\Final Project\backend\cmd-be\CMD.Business\obj\Debug\CMD.Business.dll
+C:\Bhavya\Eurofins\Final Project\backend\cmd-be\CMD.Business\obj\Debug\CMD.Business.pdb
+C:\Users\Dipro Pramanick\Desktop\Desktop\CMDDatabase\CMD.Business\bin\Debug\CMD.Business.dll
+C:\Users\Dipro Pramanick\Desktop\Desktop\CMDDatabase\CMD.Business\bin\Debug\CMD.Business.pdb
+C:\Users\Dipro Pramanick\Desktop\Desktop\CMDDatabase\CMD.Business\bin\Debug\CMD.DataAccess.dll
+C:\Users\Dipro Pramanick\Desktop\Desktop\CMDDatabase\CMD.Business\bin\Debug\CMD.DTO.APIEntities.dll
+C:\Users\Dipro Pramanick\Desktop\Desktop\CMDDatabase\CMD.Business\bin\Debug\CMD.DTO.Converters.dll
+C:\Users\Dipro Pramanick\Desktop\Desktop\CMDDatabase\CMD.Business\bin\Debug\CMD.Entities.dll
+C:\Users\Dipro Pramanick\Desktop\Desktop\CMDDatabase\CMD.Business\bin\Debug\CMD.Exceptions.dll
+C:\Users\Dipro Pramanick\Desktop\Desktop\CMDDatabase\CMD.Business\bin\Debug\EntityFramework.dll
+C:\Users\Dipro Pramanick\Desktop\Desktop\CMDDatabase\CMD.Business\bin\Debug\CMD.DataAccess.pdb
+C:\Users\Dipro Pramanick\Desktop\Desktop\CMDDatabase\CMD.Business\bin\Debug\CMD.DataAccess.dll.config
+C:\Users\Dipro Pramanick\Desktop\Desktop\CMDDatabase\CMD.Business\bin\Debug\CMD.DTO.APIEntities.pdb
+C:\Users\Dipro Pramanick\Desktop\Desktop\CMDDatabase\CMD.Business\bin\Debug\CMD.DTO.Converters.pdb
+C:\Users\Dipro Pramanick\Desktop\Desktop\CMDDatabase\CMD.Business\bin\Debug\CMD.Entities.pdb
+C:\Users\Dipro Pramanick\Desktop\Desktop\CMDDatabase\CMD.Business\bin\Debug\CMD.Exceptions.pdb
+C:\Users\Dipro Pramanick\Desktop\Desktop\CMDDatabase\CMD.Business\bin\Debug\EntityFramework.xml
+C:\Users\Dipro Pramanick\Desktop\Desktop\CMDDatabase\CMD.Business\obj\Debug\CMD.Business.csproj.AssemblyReference.cache
+C:\Users\Dipro Pramanick\Desktop\Desktop\CMDDatabase\CMD.Business\obj\Debug\CMD.Business.csproj.CoreCompileInputs.cache
+C:\Users\Dipro Pramanick\Desktop\Desktop\CMDDatabase\CMD.Business\obj\Debug\CMD.Business.dll
+C:\Users\Dipro Pramanick\Desktop\Desktop\CMDDatabase\CMD.Business\obj\Debug\CMD.Business.pdb
+C:\Users\Dipro Pramanick\Desktop\Desktop\backpull\Clone BE\cmd-be\CMD.Business\bin\Debug\CMD.Business.dll
+C:\Users\Dipro Pramanick\Desktop\Desktop\backpull\Clone BE\cmd-be\CMD.Business\bin\Debug\CMD.Business.pdb
+C:\Users\Dipro Pramanick\Desktop\Desktop\backpull\Clone BE\cmd-be\CMD.Business\bin\Debug\CMD.DataAccess.dll
+C:\Users\Dipro Pramanick\Desktop\Desktop\backpull\Clone BE\cmd-be\CMD.Business\bin\Debug\CMD.DTO.APIEntities.dll
+C:\Users\Dipro Pramanick\Desktop\Desktop\backpull\Clone BE\cmd-be\CMD.Business\bin\Debug\CMD.DTO.Converters.dll
+C:\Users\Dipro Pramanick\Desktop\Desktop\backpull\Clone BE\cmd-be\CMD.Business\bin\Debug\CMD.Entities.dll
+C:\Users\Dipro Pramanick\Desktop\Desktop\backpull\Clone BE\cmd-be\CMD.Business\bin\Debug\CMD.Exceptions.dll
+C:\Users\Dipro Pramanick\Desktop\Desktop\backpull\Clone BE\cmd-be\CMD.Business\bin\Debug\EntityFramework.dll
+C:\Users\Dipro Pramanick\Desktop\Desktop\backpull\Clone BE\cmd-be\CMD.Business\bin\Debug\CMD.DataAccess.pdb
+C:\Users\Dipro Pramanick\Desktop\Desktop\backpull\Clone BE\cmd-be\CMD.Business\bin\Debug\CMD.DataAccess.dll.config
+C:\Users\Dipro Pramanick\Desktop\Desktop\backpull\Clone BE\cmd-be\CMD.Business\bin\Debug\CMD.DTO.APIEntities.pdb
+C:\Users\Dipro Pramanick\Desktop\Desktop\backpull\Clone BE\cmd-be\CMD.Business\bin\Debug\CMD.DTO.Converters.pdb
+C:\Users\Dipro Pramanick\Desktop\Desktop\backpull\Clone BE\cmd-be\CMD.Business\bin\Debug\CMD.Entities.pdb
+C:\Users\Dipro Pramanick\Desktop\Desktop\backpull\Clone BE\cmd-be\CMD.Business\bin\Debug\CMD.Exceptions.pdb
+C:\Users\Dipro Pramanick\Desktop\Desktop\backpull\Clone BE\cmd-be\CMD.Business\bin\Debug\EntityFramework.xml
+C:\Users\Dipro Pramanick\Desktop\Desktop\backpull\Clone BE\cmd-be\CMD.Business\obj\Debug\CMD.Business.csproj.AssemblyReference.cache
+C:\Users\Dipro Pramanick\Desktop\Desktop\backpull\Clone BE\cmd-be\CMD.Business\obj\Debug\CMD.Business.csproj.CoreCompileInputs.cache
+C:\Users\Dipro Pramanick\Desktop\Desktop\backpull\Clone BE\cmd-be\CMD.Business\obj\Debug\CMD.Business.csproj.CopyComplete
+C:\Users\Dipro Pramanick\Desktop\Desktop\backpull\Clone BE\cmd-be\CMD.Business\obj\Debug\CMD.Business.dll
+C:\Users\Dipro Pramanick\Desktop\Desktop\backpull\Clone BE\cmd-be\CMD.Business\obj\Debug\CMD.Business.pdb
+C:\Users\Dipro Pramanick\Desktop\Desktop\CMDDatabase\CMD.Business\obj\Debug\CMD.Business.csproj.CopyComplete

@@ -1,0 +1,12 @@
+C:\Bhavya\Eurofins\Final Project\backend\cmd-be\CMD.Exceptions\bin\Debug\CMD.Exceptions.dll
+C:\Bhavya\Eurofins\Final Project\backend\cmd-be\CMD.Exceptions\bin\Debug\CMD.Exceptions.pdb
+C:\Bhavya\Eurofins\Final Project\backend\cmd-be\CMD.Exceptions\obj\Debug\CMD.Exceptions.csproj.AssemblyReference.cache
+C:\Bhavya\Eurofins\Final Project\backend\cmd-be\CMD.Exceptions\obj\Debug\CMD.Exceptions.csproj.CoreCompileInputs.cache
+C:\Bhavya\Eurofins\Final Project\backend\cmd-be\CMD.Exceptions\obj\Debug\CMD.Exceptions.dll
+C:\Bhavya\Eurofins\Final Project\backend\cmd-be\CMD.Exceptions\obj\Debug\CMD.Exceptions.pdb
+C:\Users\Dipro Pramanick\Desktop\Desktop\CMDDatabase\CMD.Exceptions\bin\Debug\CMD.Exceptions.dll
+C:\Users\Dipro Pramanick\Desktop\Desktop\CMDDatabase\CMD.Exceptions\bin\Debug\CMD.Exceptions.pdb
+C:\Users\Dipro Pramanick\Desktop\Desktop\CMDDatabase\CMD.Exceptions\obj\Debug\CMD.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Dipro Pramanick\Desktop\Desktop\CMDDatabase\CMD.Exceptions\obj\Debug\CMD.Exceptions.dll
+C:\Users\Dipro Pramanick\Desktop\Desktop\CMDDatabase\CMD.Exceptions\obj\Debug\CMD.Exceptions.pdb
+C:\Users\Dipro Pramanick\Desktop\Desktop\CMDDatabase\CMD.Exceptions\obj\Debug\CMD.Exceptions.csproj.AssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\Users\Dipro Pramanick\Desktop\Desktop\CMDDatabase\CMD.DTO.Converters\bin\Debug\CMD.DTO.Converters.dll
+C:\Users\Dipro Pramanick\Desktop\Desktop\CMDDatabase\CMD.DTO.Converters\bin\Debug\CMD.DTO.Converters.pdb
+C:\Users\Dipro Pramanick\Desktop\Desktop\CMDDatabase\CMD.DTO.Converters\bin\Debug\CMD.DataAccess.dll
+C:\Users\Dipro Pramanick\Desktop\Desktop\CMDDatabase\CMD.DTO.Converters\bin\Debug\CMD.DTO.APIEntities.dll
+C:\Users\Dipro Pramanick\Desktop\Desktop\CMDDatabase\CMD.DTO.Converters\bin\Debug\CMD.Entities.dll
+C:\Users\Dipro Pramanick\Desktop\Desktop\CMDDatabase\CMD.DTO.Converters\bin\Debug\EntityFramework.dll
+C:\Users\Dipro Pramanick\Desktop\Desktop\CMDDatabase\CMD.DTO.Converters\bin\Debug\CMD.DataAccess.pdb
+C:\Users\Dipro Pramanick\Desktop\Desktop\CMDDatabase\CMD.DTO.Converters\bin\Debug\CMD.DataAccess.dll.config
+C:\Users\Dipro Pramanick\Desktop\Desktop\CMDDatabase\CMD.DTO.Converters\bin\Debug\CMD.DTO.APIEntities.pdb
+C:\Users\Dipro Pramanick\Desktop\Desktop\CMDDatabase\CMD.DTO.Converters\bin\Debug\CMD.Entities.pdb
+C:\Users\Dipro Pramanick\Desktop\Desktop\CMDDatabase\CMD.DTO.Converters\bin\Debug\EntityFramework.xml
+C:\Users\Dipro Pramanick\Desktop\Desktop\CMDDatabase\CMD.DTO.Converters\obj\Debug\CMD.DTO.Converters.csproj.AssemblyReference.cache
+C:\Users\Dipro Pramanick\Desktop\Desktop\CMDDatabase\CMD.DTO.Converters\obj\Debug\CMD.DTO.Converters.csproj.CoreCompileInputs.cache
+C:\Users\Dipro Pramanick\Desktop\Desktop\CMDDatabase\CMD.DTO.Converters\obj\Debug\CMD.DTO.Converters.dll
+C:\Users\Dipro Pramanick\Desktop\Desktop\CMDDatabase\CMD.DTO.Converters\obj\Debug\CMD.DTO.Converters.pdb
+C:\Users\Dipro Pramanick\Desktop\Desktop\CMDDatabase\CMD.DTO.Converters\obj\Debug\CMD.DTO.Converters.csproj.CopyComplete

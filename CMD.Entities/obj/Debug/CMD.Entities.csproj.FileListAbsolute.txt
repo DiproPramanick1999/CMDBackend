@@ -1,0 +1,12 @@
+C:\Bhavya\Eurofins\Final Project\backend\cmd-be\CMD.Entities\bin\Debug\CMD.Entities.dll
+C:\Bhavya\Eurofins\Final Project\backend\cmd-be\CMD.Entities\bin\Debug\CMD.Entities.pdb
+C:\Bhavya\Eurofins\Final Project\backend\cmd-be\CMD.Entities\obj\Debug\CMD.Entities.csproj.AssemblyReference.cache
+C:\Bhavya\Eurofins\Final Project\backend\cmd-be\CMD.Entities\obj\Debug\CMD.Entities.csproj.CoreCompileInputs.cache
+C:\Bhavya\Eurofins\Final Project\backend\cmd-be\CMD.Entities\obj\Debug\CMD.Entities.dll
+C:\Bhavya\Eurofins\Final Project\backend\cmd-be\CMD.Entities\obj\Debug\CMD.Entities.pdb
+C:\Users\Dipro Pramanick\Desktop\Desktop\CMDDatabase\CMD.Entities\bin\Debug\CMD.Entities.dll
+C:\Users\Dipro Pramanick\Desktop\Desktop\CMDDatabase\CMD.Entities\bin\Debug\CMD.Entities.pdb
+C:\Users\Dipro Pramanick\Desktop\Desktop\CMDDatabase\CMD.Entities\obj\Debug\CMD.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Dipro Pramanick\Desktop\Desktop\CMDDatabase\CMD.Entities\obj\Debug\CMD.Entities.dll
+C:\Users\Dipro Pramanick\Desktop\Desktop\CMDDatabase\CMD.Entities\obj\Debug\CMD.Entities.pdb
+C:\Users\Dipro Pramanick\Desktop\Desktop\CMDDatabase\CMD.Entities\obj\Debug\CMD.Entities.csproj.AssemblyReference.cache
